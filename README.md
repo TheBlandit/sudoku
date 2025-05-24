@@ -1,1 +1,2 @@
 # sudoku
+This is a project I made in late 2023/early 2024, it uses nannou to create and render a window and taking input from the user. As the name suggests this is a sudoku game, it randomly generates a sudoku board with missing numbers, it initially generates a complete board using a wave collapse algorithm, then removes numbers using pre-defined rules until it cannot remove anymore. It also has support for pencil numbers and keeps track of how amny mistakes have been made and shows them at the end.
